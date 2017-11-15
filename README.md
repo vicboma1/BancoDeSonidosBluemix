@@ -17,7 +17,7 @@ Para el caso de uso se ha utilizado el movimiento de un látigo con su respectiv
 
 
 ### Kinect Studio Application Windows + Movimientos reales 
-#### (Click en el gif para ver video)
+#### (Click en la imagen para ver video)
 
 [![](http://img.youtube.com/vi/IXQ_oDFuQiU/0.jpg)](https://www.youtube.com/watch?v=IXQ_oDFuQiU "Banco de sonidos")
 
