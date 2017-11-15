@@ -19,7 +19,7 @@ Para el caso de uso se ha utilizado el movimiento de un látigo con su respectiv
 ### Kinect Studio Application Windows + Movimientos reales 
 #### (Click en el gif para ver video)
 
-[![](https://github.com/vicboma1/BancoDeSonidosBluemix/blob/master/assets/_oscilatorBluemix.gif)](http://www.youtube.com/watch?v=5SWKVNh-q2c "Oscilador")
+[![](http://img.youtube.com/vi/IXQ_oDFuQiU/0.jpg)](https://www.youtube.com/watch?v=IXQ_oDFuQiU "Banco de sonidos")
 
 ### Pasos a seguir 
 #### (El código no estará disponible hasta la finalización de la Hackathon)
