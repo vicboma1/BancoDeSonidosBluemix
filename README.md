@@ -3,7 +3,7 @@ Pequeño proyecto que forma parte del starter kit de la hackathon.
 
 ### Esquema Node-RED
 
-![](https://github.com/vicboma1/BancoDeSonidosBluemix/blob/master/assets/_oscilatorBluemix.png)
+![](https://github.com/vicboma1/BancoDeSonidosBluemix/blob/master/assets/_bancoDeSonidosBluemix.png)
 
 La solución se basa en un esquema de nodos que representa un banco de sonidos online.
 
@@ -24,7 +24,7 @@ Para el caso de uso se ha utilizado el movimiento de un látigo con su respectiv
 ### Pasos a seguir 
 #### (El código no estará disponible hasta la finalización de la Hackathon)
 
-1.   Copiar la ![Plantilla txt](https://github.com/vicboma1/BancoDeSonidosBluemix/blob/master/assets/_oscilatorBluemix.txt) con "Control A" + "Control C"
+1.   Copiar la ![Plantilla txt](https://github.com/vicboma1/BancoDeSonidosBluemix/blob/master/assets/_bancoDeSonidosBuemix.txt) con "Control A" + "Control C"
 
 2.   Ir al menú contextual de nuestra aplicación Node-RED
 
