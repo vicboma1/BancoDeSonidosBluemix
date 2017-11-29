@@ -22,7 +22,6 @@ Para el caso de uso se ha utilizado el movimiento de un látigo con su respectiv
 [![](http://img.youtube.com/vi/IXQ_oDFuQiU/0.jpg)](https://www.youtube.com/watch?v=IXQ_oDFuQiU "Banco de sonidos")
 
 ### Pasos a seguir 
-#### (El código no estará disponible hasta la finalización de la Hackathon)
 
 1.   Copiar la ![Plantilla txt](https://github.com/vicboma1/BancoDeSonidosBluemix/blob/master/assets/_bancoDeSonidosBuemix.txt) con "Control A" + "Control C"
 
